@@ -105,7 +105,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8226-common/proprietary/bin/location-mq:system/bin/location-mq \
     vendor/motorola/msm8226-common/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
     vendor/motorola/msm8226-common/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
-    vendor/motorola/msm8226-common/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/motorola/msm8226-common/proprietary/etc/gps.conf:system/etc/gps.conf \
     vendor/motorola/msm8226-common/proprietary/etc/izat.conf:system/etc/izat.conf \
     vendor/motorola/msm8226-common/proprietary/etc/quipc.conf:system/etc/quipc.conf \
@@ -154,7 +153,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8226-common/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
     vendor/motorola/msm8226-common/proprietary/bin/imsqmidaemon:system/bin/imsqmidaemon \
     vendor/motorola/msm8226-common/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
-    vendor/motorola/msm8226-common/proprietary/etc/permissions/ims.xml:system/etc/permissions/ims.xml \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/lib-dplmedia.so:system/vendor/lib/lib-dplmedia.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/lib-imsdpl.so:system/vendor/lib/lib-imsdpl.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/lib-imsqimf.so:system/vendor/lib/lib-imsqimf.so \
@@ -219,8 +217,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8226-common/proprietary/bin/rild:system/bin/rild \
     vendor/motorola/msm8226-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/motorola/msm8226-common/proprietary/bin/qmi_motext_hook:system/bin/qmi_motext_hook \
-    vendor/motorola/msm8226-common/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
-    vendor/motorola/msm8226-common/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/motorola/msm8226-common/proprietary/lib/libadropbox.so:system/lib/libadropbox.so \
     vendor/motorola/msm8226-common/proprietary/lib/libmdmcutback.so:system/lib/libmdmcutback.so \
     vendor/motorola/msm8226-common/proprietary/lib/libmotext_inf.so:system/lib/libmotext_inf.so \
